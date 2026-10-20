@@ -1,5 +1,3 @@
-Taquería Los Pérez — Riverdale client demo
+Taquería Los Pérez — client preview
 
-Presentation preview with browser-local simulated ordering. No payments, restaurant fulfillment or personal customer data. Riverdale Park is provisional. Menu snapshot: 2026-10-19, https://www.taquerialosperez.com/en/menu .
-
-Restaurant logos, photos and menu text are supplied for this client presentation and are not granted a software redistribution license. Confirm owner authorization before reusing them for other purposes.
+Four public-source restaurant menus. Browser-only demonstration of bilingual customer ordering and menu/staff controls. No server database, real authentication, card data, external payment calls, notifications or restaurant fulfillment. Demo edits/photos/orders are saved in the current browser only, and are not shared between devices. Reset using the footer button. Actual server application is maintained separately and is not published here.

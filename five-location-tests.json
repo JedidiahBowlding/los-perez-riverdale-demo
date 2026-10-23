@@ -1,5 +1,5 @@
 {
-  "passed": 25,
+  "passed": 27,
   "scope": "Offline browser adapter; no network, payments or printing",
   "locations": 5,
   "saved_edits_preserved": true

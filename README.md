@@ -17,3 +17,7 @@ Choose each restaurant, check its address and own menu, switch English/Español,
 `node tests/five-location-demo.cjs`: 25 offline checks pass for five profiles, separate menus/quotes, paused empty Jessup, invalid modifier groups, preserved older edits/orders, corrected addresses, translations and no live destinations. Browser checks verify both languages, all five addresses, Jessup’s pending state and Laurel’s 148-item menu. Native language-engine checks pass. Physical tablets, live Clover access, payments and printers remain unverified.
 
 This five-location static release is intended for GitHub Pages at https://jedidiahbowlding.github.io/los-perez-riverdale-demo/. It is a simulation, not the Clover-connected backend. No restaurant DNS or account settings changed. Never copy backend environment files, credentials, vault or database into this repository.
+
+## Jessup provisional menu update
+
+Jessup now has 80 item/price references from its address-matched Uber Eats listing, added at the user’s request. Prices are provisional delivery-platform prices, not confirmed direct-order prices. Three items with option-dependent prices retain no invented base price. All Jessup items are preview-only; ordering remains paused. No modifier choices, photos, descriptions or promotions were imported. The native database/menu and Clover credentials were not changed. See jessup-menu-source.json.

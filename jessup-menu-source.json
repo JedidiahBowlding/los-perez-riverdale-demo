@@ -1,0 +1,15 @@
+{
+  "location": "Jessup",
+  "address": "8359 Washington Blvd, Jessup, MD 20794",
+  "source": "https://www.ubereats.com/store/taqueria-los-perez-jessup/ci1UvKhCVoSCHkFoNIm0yA",
+  "observed": "2026-10-23",
+  "items": 80,
+  "status": "User-authorized provisional delivery-platform reference, not owner-approved direct-order prices",
+  "modifiers_verified": false,
+  "descriptions_and_photos_imported": false,
+  "unknown_price_items": [
+    "Tacos (1)",
+    "Gordita",
+    "Sope (1)"
+  ]
+}

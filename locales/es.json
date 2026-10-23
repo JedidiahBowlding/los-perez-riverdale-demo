@@ -554,5 +554,9 @@
   "FIVE-LOCATION DEMO · No real payments, orders or printing.": "DEMO DE CINCO SUCURSALES · Sin pagos, pedidos ni impresión reales.",
   "Menu pending confirmation": "Menú pendiente de confirmación",
   "This location’s menu is awaiting restaurant confirmation. No items or prices have been guessed.": "El menú de esta sucursal está pendiente de confirmación del restaurante. No se han inventado productos ni precios.",
-  "Invalid modifier group.": "Grupo de opciones no válido."
+  "Invalid modifier group.": "Grupo de opciones no válido.",
+  "Provisional Jessup menu · Uber Eats prices; direct-order prices and options await Hector’s confirmation. Preview only.": "Menú provisional de Jessup · Precios de Uber Eats; los precios directos y las opciones están pendientes de confirmación de Hector. Solo vista previa.",
+  "Provisional Uber Eats listing. Options and direct-order prices await restaurant confirmation.": "Referencia provisional de Uber Eats. Las opciones y los precios directos están pendientes de confirmación del restaurante.",
+  "Preview only": "Solo vista previa",
+  "Price depends on options": "Precio según las opciones"
 }

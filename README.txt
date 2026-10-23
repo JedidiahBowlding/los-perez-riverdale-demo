@@ -1,1 +1,1 @@
-Five-location English/Spanish preview. Four imported menus; Jessup menu pending and ordering paused. Browser-only simulated ordering and staff tools; no real payments, printing or authentication. GitHub Pages client preview; no live restaurant ordering. See README.md.
+Five-location English/Spanish preview. Four imported website menus and a provisional Jessup Uber Eats reference menu. Jessup items are preview-only pending restaurant confirmation. Browser-only demo; no real payments, printing or authentication. See README.md.

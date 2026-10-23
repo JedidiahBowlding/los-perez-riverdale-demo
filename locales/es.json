@@ -539,5 +539,20 @@
   "No Cilantro": "Sin cilantro",
   "Photo cannot be decoded. Choose another JPG or PNG.": "No se pudo leer la foto. Elige otro archivo JPG o PNG.",
   "Quesabirria with consomé": "Quesabirria con consomé",
-  "Find tacos, birria, and more…": "Busca tacos, birria y mucho más…"
+  "Find tacos, birria, and more…": "Busca tacos, birria y mucho más…",
+  "Order Online on Clover ↗": "Pedir en línea en Clover ↗",
+  "Order on Clover ↗": "Pedir en Clover ↗",
+  "Baltimore · Clover-hosted live ordering": "Baltimore · Pedidos reales en Clover",
+  "Select your items and pay on Clover. This demo bag does not transfer to Clover.": "Selecciona tus productos y paga en Clover. Esta bolsa de demostración no se transfiere a Clover.",
+  "Select your items and pay on Clover. This demo bag does not transfer to Clover. Clover controls current prices, availability, taxes and fees.": "Selecciona tus productos y paga en Clover. Esta bolsa de demostración no se transfiere a Clover. Clover determina los precios, la disponibilidad, los impuestos y los cargos actuales.",
+  "Live purchase: owner-supervised test only. The cardholder must review the final total and submit payment themselves.": "Compra real: solo una prueba supervisada por el propietario. El titular de la tarjeta debe revisar el total final y enviar el pago personalmente.",
+  "STAGING PREVIEW · Baltimore orders open LIVE Clover checkout. Other location carts are simulations.": "VISTA PREVIA · Los pedidos de Baltimore abren el pago REAL de Clover. Las bolsas de los otros restaurantes son simulaciones.",
+  "Live Clover checkout — real payments. Demo cart does not transfer.": "Pago real en Clover. La bolsa de demostración no se transfiere.",
+  "Preview menu only. Select items and confirm current prices on Clover.": "Menú de muestra. Selecciona tus productos y confirma los precios actuales en Clover.",
+  "Five locations. One Los Pérez.": "Cinco sucursales. Un solo Los Pérez.",
+  "Real Mexican flavor. Five local restaurants.": "Auténtico sabor mexicano. Cinco sucursales locales.",
+  "FIVE-LOCATION DEMO · No real payments, orders or printing.": "DEMO DE CINCO SUCURSALES · Sin pagos, pedidos ni impresión reales.",
+  "Menu pending confirmation": "Menú pendiente de confirmación",
+  "This location’s menu is awaiting restaurant confirmation. No items or prices have been guessed.": "El menú de esta sucursal está pendiente de confirmación del restaurante. No se han inventado productos ni precios.",
+  "Invalid modifier group.": "Grupo de opciones no válido."
 }

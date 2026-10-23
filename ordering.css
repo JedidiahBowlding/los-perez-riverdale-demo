@@ -8,3 +8,5 @@
 .hours-day{border:1px solid #ddd;border-radius:10px;padding:14px;margin:12px 0}.hours-day legend{font-weight:700}.hours-window{display:flex;gap:12px;align-items:center;flex-wrap:wrap}.hours-window label{flex:1;min-width:140px}.hours-window select{display:block;width:100%;padding:10px}.closed-label{display:block;margin-bottom:10px}#weekly-hours{max-width:760px}
 
 .language-control{display:inline-flex;align-items:center;flex-shrink:0;padding:8px}.language-control select{font:inherit;border:1px solid #b8b5ac;background:#fffdf6;color:#20313b;border-radius:8px;padding:8px 12px;min-width:112px}header{flex-wrap:wrap}@media(max-width:600px){header .language-control{order:2}header nav{flex-wrap:wrap;gap:12px}}
+
+.hosted-ordering-note{background:#fff4d8;border:2px solid #a16a17;padding:20px;border-radius:12px;margin-bottom:24px}.hosted-ordering-note p{font-size:14px;line-height:1.6}.location-card>a.primary{display:block;text-align:center}.menu-card a.add{display:inline-block;text-decoration:none}

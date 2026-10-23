@@ -1,3 +1,1 @@
-Taquería Los Pérez — client preview
-
-Four public-source restaurant menus. Browser-only demonstration of bilingual customer ordering and menu/staff controls. No server database, real authentication, card data, external payment calls, notifications or restaurant fulfillment. Demo edits/photos/orders are saved in the current browser only, and are not shared between devices. Reset using the footer button. Actual server application is maintained separately and is not published here.
+Five-location English/Spanish preview. Four imported menus; Jessup menu pending and ordering paused. Browser-only simulated ordering and staff tools; no real payments, printing or authentication. GitHub Pages client preview; no live restaurant ordering. See README.md.
